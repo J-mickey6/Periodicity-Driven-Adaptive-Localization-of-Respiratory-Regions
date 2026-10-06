@@ -3,7 +3,7 @@
 - Published in Bioengineering (MDPI): [Paper](https://www.mdpi.com/2306-5354/13/10/1158)
 - We propose a method for estimating respiratory rate by adaptively identifying respiration-related regions, without requiring deep learning pre-training or predefined anatomical ROIs such as the chest or abdomen.
 
-
+- Model Arch
 <img width="1449" height="298" alt="Figure 1  Architecture of the spatial respiratory region estimation model" src="https://github.com/user-attachments/assets/23e3d32f-e724-4cc7-b2ed-3cbcd61d443b" />
 
 #### Method Overview
