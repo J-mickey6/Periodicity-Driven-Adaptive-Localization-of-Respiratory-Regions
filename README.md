@@ -1,6 +1,6 @@
 ## Code Summary
 < Periodicity-Driven Adaptive Localization of Respiratory Regions for Non-Contact Respiration Monitoring in Sleeping Infants >
-⭐ Published in Bioengineering (MDPI): [Paper](https://www.mdpi.com/2306-5354/13/10/1158) ⭐
+- Published in Bioengineering (MDPI): [Paper](https://www.mdpi.com/2306-5354/13/10/1158) ⭐
 - We propose a method for estimating respiratory rate by adaptively identifying respiration-related regions, without requiring deep learning pre-training or predefined anatomical ROIs such as the chest or abdomen.
 
 
